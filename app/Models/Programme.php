@@ -15,6 +15,7 @@ class Programme extends Model
         'description',
         'duree_semaines',
         'niveau',
+        'prix',
         'photo',
         'actif',
     ];
